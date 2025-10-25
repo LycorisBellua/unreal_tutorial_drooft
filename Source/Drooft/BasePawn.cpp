@@ -1,5 +1,4 @@
-// Mofumofu Studios © All Rights Reserved
-
+// Lycoris Bellua © All Rights Reserved
 
 #include "BasePawn.h"
 #include "Components/CapsuleComponent.h"

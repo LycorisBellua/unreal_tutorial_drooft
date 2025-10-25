@@ -1,10 +1,8 @@
-// Mofumofu Studios © All Rights Reserved
-
+// Lycoris Bellua © All Rights Reserved
 
 #include "Tower.h"
 #include "Tank.h"
 #include "Kismet/GameplayStatics.h"
-
 
 void ATower::BeginPlay()
 {

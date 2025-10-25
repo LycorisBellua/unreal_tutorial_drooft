@@ -1,4 +1,4 @@
-// Mofumofu Studios © All Rights Reserved
+// Lycoris Bellua © All Rights Reserved
 
 #pragma once
 
@@ -6,9 +6,6 @@
 #include "BasePawn.h"
 #include "Tank.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class DROOFT_API ATank : public ABasePawn
 {

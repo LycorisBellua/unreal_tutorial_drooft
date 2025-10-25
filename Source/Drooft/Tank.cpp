@@ -1,10 +1,8 @@
-// Mofumofu Studios © All Rights Reserved
-
+// Lycoris Bellua © All Rights Reserved
 
 #include "Tank.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
-
 
 ATank::ATank()
 {
